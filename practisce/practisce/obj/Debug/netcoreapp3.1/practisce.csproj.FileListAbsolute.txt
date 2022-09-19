@@ -1,0 +1,14 @@
+E:\Console\practisce\practisce\bin\Debug\netcoreapp3.1\practisce.exe
+E:\Console\practisce\practisce\bin\Debug\netcoreapp3.1\practisce.deps.json
+E:\Console\practisce\practisce\bin\Debug\netcoreapp3.1\practisce.runtimeconfig.json
+E:\Console\practisce\practisce\bin\Debug\netcoreapp3.1\practisce.runtimeconfig.dev.json
+E:\Console\practisce\practisce\bin\Debug\netcoreapp3.1\practisce.dll
+E:\Console\practisce\practisce\bin\Debug\netcoreapp3.1\practisce.pdb
+E:\Console\practisce\practisce\obj\Debug\netcoreapp3.1\practisce.csproj.AssemblyReference.cache
+E:\Console\practisce\practisce\obj\Debug\netcoreapp3.1\practisce.GeneratedMSBuildEditorConfig.editorconfig
+E:\Console\practisce\practisce\obj\Debug\netcoreapp3.1\practisce.AssemblyInfoInputs.cache
+E:\Console\practisce\practisce\obj\Debug\netcoreapp3.1\practisce.AssemblyInfo.cs
+E:\Console\practisce\practisce\obj\Debug\netcoreapp3.1\practisce.csproj.CoreCompileInputs.cache
+E:\Console\practisce\practisce\obj\Debug\netcoreapp3.1\practisce.dll
+E:\Console\practisce\practisce\obj\Debug\netcoreapp3.1\practisce.pdb
+E:\Console\practisce\practisce\obj\Debug\netcoreapp3.1\practisce.genruntimeconfig.cache

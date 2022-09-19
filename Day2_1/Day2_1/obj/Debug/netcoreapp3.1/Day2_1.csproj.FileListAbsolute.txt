@@ -1,0 +1,14 @@
+E:\Console\Day2_1\Day2_1\bin\Debug\netcoreapp3.1\Day2_1.exe
+E:\Console\Day2_1\Day2_1\bin\Debug\netcoreapp3.1\Day2_1.deps.json
+E:\Console\Day2_1\Day2_1\bin\Debug\netcoreapp3.1\Day2_1.runtimeconfig.json
+E:\Console\Day2_1\Day2_1\bin\Debug\netcoreapp3.1\Day2_1.runtimeconfig.dev.json
+E:\Console\Day2_1\Day2_1\bin\Debug\netcoreapp3.1\Day2_1.dll
+E:\Console\Day2_1\Day2_1\bin\Debug\netcoreapp3.1\Day2_1.pdb
+E:\Console\Day2_1\Day2_1\obj\Debug\netcoreapp3.1\Day2_1.csproj.AssemblyReference.cache
+E:\Console\Day2_1\Day2_1\obj\Debug\netcoreapp3.1\Day2_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Console\Day2_1\Day2_1\obj\Debug\netcoreapp3.1\Day2_1.AssemblyInfoInputs.cache
+E:\Console\Day2_1\Day2_1\obj\Debug\netcoreapp3.1\Day2_1.AssemblyInfo.cs
+E:\Console\Day2_1\Day2_1\obj\Debug\netcoreapp3.1\Day2_1.csproj.CoreCompileInputs.cache
+E:\Console\Day2_1\Day2_1\obj\Debug\netcoreapp3.1\Day2_1.dll
+E:\Console\Day2_1\Day2_1\obj\Debug\netcoreapp3.1\Day2_1.pdb
+E:\Console\Day2_1\Day2_1\obj\Debug\netcoreapp3.1\Day2_1.genruntimeconfig.cache

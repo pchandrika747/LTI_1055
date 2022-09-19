@@ -1,0 +1,14 @@
+E:\Console\ConsoleApp_3\ConsoleApp_3\bin\Debug\netcoreapp3.1\ConsoleApp_3.exe
+E:\Console\ConsoleApp_3\ConsoleApp_3\bin\Debug\netcoreapp3.1\ConsoleApp_3.deps.json
+E:\Console\ConsoleApp_3\ConsoleApp_3\bin\Debug\netcoreapp3.1\ConsoleApp_3.runtimeconfig.json
+E:\Console\ConsoleApp_3\ConsoleApp_3\bin\Debug\netcoreapp3.1\ConsoleApp_3.runtimeconfig.dev.json
+E:\Console\ConsoleApp_3\ConsoleApp_3\bin\Debug\netcoreapp3.1\ConsoleApp_3.dll
+E:\Console\ConsoleApp_3\ConsoleApp_3\bin\Debug\netcoreapp3.1\ConsoleApp_3.pdb
+E:\Console\ConsoleApp_3\ConsoleApp_3\obj\Debug\netcoreapp3.1\ConsoleApp_3.csproj.AssemblyReference.cache
+E:\Console\ConsoleApp_3\ConsoleApp_3\obj\Debug\netcoreapp3.1\ConsoleApp_3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Console\ConsoleApp_3\ConsoleApp_3\obj\Debug\netcoreapp3.1\ConsoleApp_3.AssemblyInfoInputs.cache
+E:\Console\ConsoleApp_3\ConsoleApp_3\obj\Debug\netcoreapp3.1\ConsoleApp_3.AssemblyInfo.cs
+E:\Console\ConsoleApp_3\ConsoleApp_3\obj\Debug\netcoreapp3.1\ConsoleApp_3.csproj.CoreCompileInputs.cache
+E:\Console\ConsoleApp_3\ConsoleApp_3\obj\Debug\netcoreapp3.1\ConsoleApp_3.dll
+E:\Console\ConsoleApp_3\ConsoleApp_3\obj\Debug\netcoreapp3.1\ConsoleApp_3.pdb
+E:\Console\ConsoleApp_3\ConsoleApp_3\obj\Debug\netcoreapp3.1\ConsoleApp_3.genruntimeconfig.cache
